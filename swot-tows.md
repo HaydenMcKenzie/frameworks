@@ -1,11 +1,11 @@
-## SWOT + TOWS
-# Simple Explanation
-SWOT identifies internal Strengths and Weaknesses, and external Opportunties and Threats. TOWS turns those into strategies.
+# SWOT + TOWS
+## Simple Explanation
+SWOT identifies internal Strengths and Weaknesses, and external Opportunties and Threats. TOWS turns those into strategies. Mainly used in internal analysis.
 
-# Complex Explanation
+## Complex Explanation
 SWOT is an analytical tool to categorize company attributes and environmental factors. TOWS builds on this by mapping combinations (e.g. Strength-Oppotunity) to develop strategic options.
 
-# Example
+## Example
 ### Tech Startup
 - Strength: Agile Development
 - Weakness: Limited Funding
